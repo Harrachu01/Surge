@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 4096 4096" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="4096" width="4096" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="document" vectornator:layerName="document">
+<path d="M3398 2048C3398 1302.42 2793.58 698 2048 698C1302.42 698 698 1302.42 698 2048C698 2793.58 1302.42 3398 2048 3398C2793.58 3398 3398 2793.58 3398 2048Z" fill="#aaffc3" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="bottom"/>
+<path d="M3220.93 2048C3220.93 1400.21 2695.79 875.066 2048 875.066C1400.21 875.066 875.066 1400.21 875.066 2048C875.066 2695.79 1400.21 3220.93 2048 3220.93C2695.79 3220.93 3220.93 2695.79 3220.93 2048Z" fill="#fffb8b" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="middle"/>
+<g opacity="1" vectornator:layerName="top">
+<path d="M1052.04 1849.37C1144.39 1383.69 1555.2 1032.62 2048 1032.62C2539.22 1032.62 2948.96 1381.44 3043.06 1844.89L3043.06 1844.89C3128.84 1872.54 3190.89 1953.02 3190.89 2048C3190.89 2142.98 3128.84 2223.46 3043.06 2251.11C2948.96 2714.56 2539.22 3063.38 2048 3063.38C1558.37 3063.38 1149.68 2716.81 1053.86 2255.59C967.604 2228.22 905.108 2147.51 905.108 2052.19C905.108 1957.55 966.731 1877.29 1052.04 1849.37L1052.04 1849.37Z" fill="#800102" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="top-main"/>
+<path d="M3195.09 2048C3195.09 1927.85 3097.69 1830.45 2977.54 1830.45C2857.39 1830.45 2759.99 1927.85 2759.99 2048C2759.99 2168.15 2857.39 2265.55 2977.54 2265.55C3097.69 2265.55 3195.09 2168.15 3195.09 2048ZM3186.71 2048C3186.71 2163.52 3093.06 2257.17 2977.54 2257.17C2862.02 2257.17 2768.37 2163.52 2768.37 2048C2768.37 1932.48 2862.02 1838.83 2977.54 1838.83C3093.06 1838.83 3186.71 1932.48 3186.71 2048Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="top-right"/>
+<path d="M1336.01 2052.19C1336.01 1932.04 1238.61 1834.64 1118.46 1834.64C998.312 1834.64 900.914 1932.04 900.914 2052.19C900.914 2172.34 998.312 2269.74 1118.46 2269.74C1238.61 2269.74 1336.01 2172.34 1336.01 2052.19ZM1327.63 2052.19C1327.63 2167.71 1233.98 2261.36 1118.46 2261.36C1002.94 2261.36 909.293 2167.71 909.293 2052.19C909.293 1936.67 1002.94 1843.02 1118.46 1843.02C1233.98 1843.02 1327.63 1936.67 1327.63 2052.19Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="top-left"/>
+</g>
+<path d="M2554.42 1541.58L2048 1032.62C2048 1032.62 1628.74 1454.43 1541.58 1541.58C1411.98 1671.19 1331.82 1850.23 1331.82 2048C1331.82 2443.54 1652.46 2764.18 2048 2764.18C2443.54 2764.18 2764.18 2443.54 2764.18 2048C2764.18 1850.23 2684.02 1671.19 2554.42 1541.58Z" fill="#ef9f46" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="head"/>
+<g opacity="1" vectornator:layerName="leftArm">
+<path d="M215 3666L1135 3666C1253.74 3666 1350 3762.26 1350 3881L1350 3881C1350 3999.74 1253.74 4096 1135 4096L215 4096C96.2588 4096 0 3999.74 0 3881L0 3881C0 3762.26 96.2588 3666 215 3666Z" fill="#ef9f46" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.628911" vectornator:layerName="leftTriceps"/>
+<path d="M215 0L1135 0C1253.74 0 1350 96.2588 1350 215L1350 215C1350 333.741 1253.74 430 1135 430L215 430C96.2588 430 0 333.741 0 215L0 215C0 96.2588 96.2588 0 215 0Z" fill="#ef9f46" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.628911" vectornator:layerName="leftBiceps"/>
+</g>
+<g opacity="1" vectornator:layerName="rightArm">
+<path d="M2961 3666L3881 3666C3999.74 3666 4096 3762.26 4096 3881L4096 3881C4096 3999.74 3999.74 4096 3881 4096L2961 4096C2842.26 4096 2746 3999.74 2746 3881L2746 3881C2746 3762.26 2842.26 3666 2961 3666Z" fill="#ef9f46" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.628911" vectornator:layerName="rightTriceps"/>
+<g opacity="1" vectornator:layerName="rightBiceps">
+<path d="M2961-4.54747e-13L3881 0C3999.74 0 4096 96.2588 4096 215L4096 215C4096 333.741 3999.74 430 3881 430L2961 430C2842.26 430 2746 333.741 2746 215L2746 215C2746 96.2588 2842.26 0 2961-4.54747e-13Z" fill="#ef9f46" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.628911" vectornator:layerName="arm"/>
+<path d="M2961-4.54747e-13L4096 215L4096 215C4096 240.521 2961 430 2961 430C2842.26 430 2746 333.741 2746 215L2746 215C2746 96.2588 2842.26 0 2961-4.54747e-13Z" fill="#774412" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.628911" vectornator:layerName="weapon"/>
+</g>
+</g>
+</g>
+</svg>
