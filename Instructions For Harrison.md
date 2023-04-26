@@ -1,8 +1,8 @@
 Hello Harrison, Here's your cool developer to-do list. Press option+8 to mark complete. Complete: • Incomplete: o
 
-INSTALL HOMEBREW: PUT /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" IN TERMINAL o
+INSTALL HOMEBREW: PUT /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" IN TERMINAL •
 
-INSTALL GH: PUT brew install gh IN TERMINAL o
+INSTALL GH: PUT brew install gh IN TERMINAL o 
 
 MAKE SURE GITHUB FOLDER IS IN FINDER IN SIDEBAR. ADD A FOLDER NAMED harrachu01 IN FOLDER o
 
