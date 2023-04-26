@@ -1,4 +1,4 @@
-Hello Harrison, Here's your cool developer to-do list. Press option+8 to mark complete. Complete: • Incomplete: o
+Hello Harrachu01, Here's your cool developer to-do list. Press option+8 to mark complete. Complete: • Incomplete: o
 
 INSTALL HOMEBREW: PUT /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" IN TERMINAL •
 
