@@ -6,3 +6,10 @@ html{
     background-color:#0088ff ;
     width:100vw;
 }
+#goal{
+    width:100vw;
+    height:10vh;
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+}
