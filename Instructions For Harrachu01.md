@@ -2,14 +2,14 @@ Hello Harrachu01, Here's your cool developer to-do list. Press option+8 to mark 
 
 INSTALL HOMEBREW: PUT /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" IN TERMINAL •
 
-INSTALL GH: PUT brew install gh IN TERMINAL o
+INSTALL GH: PUT brew install gh IN TERMINAL •
 
-MAKE SURE GITHUB FOLDER IS IN FINDER IN SIDEBAR. ADD A FOLDER NAMED harrachu01 IN FOLDER o
+MAKE SURE GITHUB FOLDER IS IN FINDER IN SIDEBAR. ADD A FOLDER NAMED harrachu01 IN FOLDER •
 
-ADD REPO TO LOCAL: PUT gh repo clone Harrachu01/Surge IN TERMINAL o
+ADD REPO TO LOCAL: PUT gh repo clone Harrachu01/Surge IN TERMINAL •
 
-DOWNLOAD GITHUB DESKTOP: PUT brew install github IN TERMINAL o
+DOWNLOAD GITHUB DESKTOP: PUT brew install github IN TERMINAL •
 
-OPEN IN VSCODE. PUT code Surge IN TERMINAL v
+OPEN IN VSCODE. PUT code Surge IN TERMINAL •
 
 MAKE SURGE GITHUB REPO PUBLIC SO AUGUST CAN SEE THE NEEDED STYLE FOR BEING OUR GRAPHIC DESIGNER o
