@@ -4,14 +4,20 @@
         <title>&#171;Surge - A fast-paced combat game&#187;</title>
         <script src="surge.js">
         </script>
-        <style href="surge.css"></style>
+        <link rel="stylesheet" href="surge.css"></link>
     </head>
     <body>
-        <div id="background" style="background-color: #0088ff; width:100vw">
+        <div id="background">
             <div>
-                <canvas id="gameplay"  style="position: relative; background-color: #800; border-radius: 0px 0px 15% 15%; width:100vw ;height:90vh;top:0px"></canvas>
+                <canvas id="gameplay"></canvas>
             </div>
-        <div id="controller" style="position: relative; background-color: #0088ff;width:100vw;height:10vh; bottom:0px">
+        <div id="controller">
+            <div id="progress">
+
+            </div>
+            <div id="hp">
+
+            </div>
             <p id="goal">30</p>
     </div>
 </div>
