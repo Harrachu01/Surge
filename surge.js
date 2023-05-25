@@ -12,3 +12,5 @@ document.addEventListener("keyup", function(e) {
 })
 setInterval(() => {
 }, 50);
+//nevergonnagiveyouupgetrickrolled
+//hiolivercamerongetrickyrollyed
