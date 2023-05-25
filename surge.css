@@ -22,10 +22,11 @@ html{
     text-align: center;
     vertical-align: middle;
     color: black;
+    font-size: 25px;
 }
 #gameplay{
     position: relative;
-    background-color: #800; 
+    background-color: #994444; 
     border-radius: 0px 0px 40px 40px; 
     width:100vw;
     height:90vh;
@@ -37,8 +38,9 @@ html{
     background-color: #40a6ff;
     width:100vw;
     height:10vh;
-    top:0vh;
+    bottom:0vh;
 }
 body{
-    margin: 0px
+    margin: 0px;
+    height: 100vh;
 }

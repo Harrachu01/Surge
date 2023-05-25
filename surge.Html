@@ -1,28 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+    <body>
+        <div id="background">
+            <div>
+                <canvas id="gameplay">
+
+                </canvas>
+            </div>
+        <div id="controller" style="position:relative;">
+            <div id="progress" style="position:relative; top:5px;height:5vh">
+                <div id="p1pg" style="position:absolute; left:5px; border-radius:35px 0px 0px 0px; height:calc(5vh - 5px); width: calc(50vw - 5px); background:#ffff44"></div>
+                <div id="p2pg" style="position:absolute; right:5px; border-radius:0px 35px 0px 0px; height:calc(5vh - 5px); width: calc(50vw - 5px); background:#ffff44"></div>
+            </div>
+            <div id="hp" style="position:relative; bottom:5px;height:5vh">
+                <div id="p1hp" style="position:absolute; left:5px; height:calc(5vh - 5px); width: calc(50vw - 5px); background:#ff4444"></div>
+                <div id="p2hp" style="position:absolute; right:5px; height:calc(5vh - 5px); width: calc(50vw - 5px); background:#ff4444"></div>
+            </div>
+            <div style="position: absolute; top:5px">
+            <p id="goal">30</p>
+            </div>
+
+    </div>
+</div>
+    </body>
+
     <head>
         <title>&#171;Surge - A fast-paced combat game&#187;</title>
         <script src="surge.js">
         </script>
         <link rel="stylesheet" href="surge.css"></link>
     </head>
-    <body>
-        <div id="background">
-            <div>
-                <canvas id="gameplay"></canvas>
-            </div>
-        <div id="controller" style="position:relative; top:0px;">
-            <div id="progress">
-                <div id="p1pg" style="position:relative; left:0px; border-radius:15px 0px 0px 0px; height:5vh; width: 50vw; background:#ffff44"></div>
-                <div id="p2pg" style="position:relative; right:0px; border-radius:0px 15px 0px 0px; height:5vh; width: 50vw; background:#ffff44"></div>
-            </div>
-            <div id="hp" style="position:relative; bottom:0px">
-                <div id="p1hp" style="position:relative; left:0px; height:5vh; width: 50vw; background:#ff4444"></div>
-                <div id="p2hp" style="position:relative; right:0px; height:5vh; width: 50vw; background:#ff4444"></div>
-            </div>
-            <p id="goal">30</p>
-    </div>
-</div>
-    </body>
 </html>
-<!-- hello guys  -->
